@@ -39,8 +39,6 @@ bool AppDelegate::applicationDidFinishLaunching()
     // run
     pDirector->runWithScene( reader->createSceneWithNodeGraphFromFile( "Published-iOS/ConnectToCustomClass.ccbi" ) );
     
-    
-    
 
     return true;
 }
