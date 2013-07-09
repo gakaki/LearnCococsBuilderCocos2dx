@@ -40,9 +40,9 @@ bool AppDelegate::applicationDidFinishLaunching()
     pDirector->setAnimationInterval(1.0 / 60);
 
     
-    CCBReader* pReader = new CCBReader( CCNodeLoaderLibrary::sharedCCNodeLoaderLibrary() );
+    CCBReader* pReader = new CCBReader( CCNodeLoaderLibrary::newDefaultCCNodeLoaderLibrary() );
     pReader->autorelease();
-    pDirector->runWithScene( pReader->createSceneWithNodeGraphFromFile( "Published-iOS/GameMenu.ccbi" ) );
+    pDirector->runWithScene( pReader->createSceneWithNodeGraphFromFile( "Published-iOS/HelloCocosBuilder.ccbi" ) );
     
     
     return true;

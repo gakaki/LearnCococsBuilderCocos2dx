@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>72F68E35-1D0E-43B0-BEE9-7B7975C824F2</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ConnectToCustomLayer</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>31B17034-31D1-4CC7-8D1D-E848C36EA8B1</key>
+		<string>https://github.com/gakaki/LearnCococsBuilderCocos2dx.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ConnectToCustomLayer/ConnectToCustomLayer.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>31B17034-31D1-4CC7-8D1D-E848C36EA8B1</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/gakaki/LearnCococsBuilderCocos2dx.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>31B17034-31D1-4CC7-8D1D-E848C36EA8B1</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>31B17034-31D1-4CC7-8D1D-E848C36EA8B1</string>
+			<key>IDESourceControlWCCName</key>
+			<string>LearnCocosBuilder</string>
+		</dict>
+	</array>
+</dict>
+</plist>

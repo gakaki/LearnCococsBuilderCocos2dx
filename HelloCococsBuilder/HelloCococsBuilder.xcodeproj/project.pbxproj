@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4B0217F4178BA40000B3E68B /* Published-iOS in Resources */ = {isa = PBXBuildFile; fileRef = 4B0217F3178BA40000B3E68B /* Published-iOS */; };
 		4B3BEAE517856E6E00B441A4 /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4B3BEAE417856E6E00B441A4 /* QuartzCore.framework */; };
 		4B3BEAE717856E6E00B441A4 /* OpenGLES.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4B3BEAE617856E6E00B441A4 /* OpenGLES.framework */; };
 		4B3BEAE917856E6E00B441A4 /* OpenAL.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4B3BEAE817856E6E00B441A4 /* OpenAL.framework */; };
@@ -280,10 +281,10 @@
 		4B3BEE8217856E7200B441A4 /* libwebsockets.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 4B3BEE8117856E7200B441A4 /* libwebsockets.a */; };
 		4B3BEE8817856E7200B441A4 /* AppDelegate.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4B3BEE8717856E7200B441A4 /* AppDelegate.cpp */; };
 		4BD3EF9D17866EE6000D3C62 /* Entitlements.plist in Resources */ = {isa = PBXBuildFile; fileRef = 4BD3EF9C17866EE6000D3C62 /* Entitlements.plist */; };
-		4BD3F035178671EE000D3C62 /* Published-iOS in Resources */ = {isa = PBXBuildFile; fileRef = 4BD3F034178671EE000D3C62 /* Published-iOS */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		4B0217F3178BA40000B3E68B /* Published-iOS */ = {isa = PBXFileReference; lastKnownFileType = folder; name = "Published-iOS"; path = "HelloCococsBuilderhe/Published-iOS"; sourceTree = SOURCE_ROOT; };
 		4B3BEAE117856E6E00B441A4 /* HelloCococsBuilder.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HelloCococsBuilder.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4B3BEAE417856E6E00B441A4 /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
 		4B3BEAE617856E6E00B441A4 /* OpenGLES.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = OpenGLES.framework; path = System/Library/Frameworks/OpenGLES.framework; sourceTree = SDKROOT; };
@@ -873,7 +874,6 @@
 		4B3BEE8617856E7200B441A4 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = Classes/AppDelegate.h; sourceTree = "<group>"; };
 		4B3BEE8717856E7200B441A4 /* AppDelegate.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = AppDelegate.cpp; path = Classes/AppDelegate.cpp; sourceTree = "<group>"; };
 		4BD3EF9C17866EE6000D3C62 /* Entitlements.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Entitlements.plist; sourceTree = "<group>"; };
-		4BD3F034178671EE000D3C62 /* Published-iOS */ = {isa = PBXFileReference; lastKnownFileType = folder; name = "Published-iOS"; path = "HelloCococsBuilderhe/Published-iOS"; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -946,8 +946,8 @@
 		4B3BEAF517856E6E00B441A4 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
-				4BD3F034178671EE000D3C62 /* Published-iOS */,
 				4B3BEAF617856E6E00B441A4 /* CloseNormal.png */,
+				4B0217F3178BA40000B3E68B /* Published-iOS */,
 				4B3BEAF817856E6E00B441A4 /* CloseSelected.png */,
 				4B3BEAFA17856E6E00B441A4 /* Default.png */,
 				4B3BEAFC17856E6E00B441A4 /* HelloWorld.png */,
@@ -2165,7 +2165,7 @@
 				4B3BEB0517856E6E00B441A4 /* Icon-Small@2x.png in Resources */,
 				4B3BEAFB17856E6E00B441A4 /* Default.png in Resources */,
 				4B3BEAF917856E6E00B441A4 /* CloseSelected.png in Resources */,
-				4BD3F035178671EE000D3C62 /* Published-iOS in Resources */,
+				4B0217F4178BA40000B3E68B /* Published-iOS in Resources */,
 				4B3BEB0917856E6E00B441A4 /* Icon@2x.png in Resources */,
 				4B3BED1E17856E7000B441A4 /* project.pbxproj in Resources */,
 			);
